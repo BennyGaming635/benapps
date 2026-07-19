@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title2 desc2">
+  <title id="title2">Sample App Photo 2</title>
+  <desc id="desc2">Generated sample placeholder image for app showcase.</desc>
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0aa6a6" />
+      <stop offset="100%" stop-color="#2bc1d6" />
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#bg2)" />
+  <rect x="120" y="130" width="1360" height="740" rx="50" fill="rgba(255,255,255,0.12)" />
+  <rect x="220" y="230" width="360" height="540" rx="38" fill="rgba(255,255,255,0.92)" />
+  <rect x="680" y="250" width="700" height="42" rx="16" fill="rgba(255,255,255,0.95)" />
+  <rect x="680" y="330" width="600" height="42" rx="16" fill="rgba(255,255,255,0.85)" />
+  <rect x="680" y="410" width="520" height="42" rx="16" fill="rgba(255,255,255,0.7)" />
+  <circle cx="760" cy="620" r="36" fill="rgba(255,255,255,0.95)" />
+  <circle cx="870" cy="620" r="36" fill="rgba(255,255,255,0.82)" />
+  <circle cx="980" cy="620" r="36" fill="rgba(255,255,255,0.7)" />
+  <text x="800" y="765" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="58" font-weight="700" fill="white">Sample App Photo 2</text>
+</svg>
